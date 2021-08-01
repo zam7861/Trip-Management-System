@@ -67,6 +67,3 @@ This repository contains all the project files and necessary details about softw
           - enjoy.
           
 
-
-***The Project is not complete yet. The backend database works perfectly fine. The integration with GUI has been done using php. 
-Only a few of the pages have been integrated. You are free to fork the project and continue the integration***
