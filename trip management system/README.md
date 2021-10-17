@@ -12,27 +12,6 @@ This repository contains all the project files and necessary details about softw
 
 
 
-
-## ScreenShots
-
-### HOME PAGE
-![Alt text](screenshots/home_page.png?raw=true "Title")
-
-### ADMIN CONSOLE
-![Alt text](screenshots/admin_panel.png?raw=true "Title")
-
-### NEW CUSTOMER
-![Alt text](screenshots/new_customer_login.png?raw=true "Title")
-
-### TRIP RESERVATION
-![Alt text](screenshots/trip_reservation.png?raw=true "Title")
-
-### HOTEL RESERVATION
-![Alt text](screenshots/hotel_reservation.png?raw=true "Title")
-
-### TOURIST PLACE
-![Alt text](screenshots/tourist_place.png?raw=true "Title")
-
 ***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
 
 ### Hardware Requirement (Minimum)
